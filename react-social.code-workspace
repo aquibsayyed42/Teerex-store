@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../react-social"
+		},
+		{
+			"path": "../../learn-react"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"zenMode.fullScreen": true,
+		"liveServer.settings.multiRootWorkspaceName": "learn-react"
+	}
+}
